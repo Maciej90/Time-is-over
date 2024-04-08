@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 Application under construction. 
-To check current progress, use the npm install commands. Then use the npm start command. Scan the QR code using the Expo Go app on your phone.
+To check current progress, use the ` npm install `. Then use the ` npm start `. Scan the QR code using the Expo Go app on your phone.
 
 
 ## Time is over screenshots
