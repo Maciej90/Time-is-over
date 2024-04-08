@@ -7,7 +7,7 @@ To check current progress, use the ` npm install `. Then use the ` npm start `. 
 
 
 ## What is Time is over
-> It is a copy of the game time is up. The purpose of the copy is to be able to add your own passwords for guessing purposes
+> It is a copy of the game Time's Up. The purpose of the copy is to be able to add your own passwords for guessing purposes
 
 
 ## Time is over screenshots
